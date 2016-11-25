@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DevelopExTask:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DevelopExTask-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DevelopExTask:war exploded" />
+    </root>
+  </artifact>
+</component>
